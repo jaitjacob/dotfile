@@ -1,0 +1,14 @@
+# General
+*.log
+*.session.vim
+.DS_Store
+data
+
+# Swap, backup, and undo files
+/swap/
+/undo/
+/backup/
+
+# LSP and other tools
+/node_modules/
+.cache/
